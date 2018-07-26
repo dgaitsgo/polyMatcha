@@ -1,0 +1,17 @@
+.filterPanelBox {
+	box-shadow: 10px 10px 5px #888888;
+	margin: auto;
+	padding-top: 3vh;
+	width: 40%;
+	padding-bottom: 3vh;
+	/*margin-left: 30vw;*/
+}
+
+.level {
+	width : 100%;
+}
+
+.sliderWrapper {
+	max-width: 300vw;
+	max-height: 80vw;
+}

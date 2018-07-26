@@ -1,0 +1,3 @@
+.tag.allowDelete:hover {
+	border: 1px solid hsl(348, 100%, 61%);
+}

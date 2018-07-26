@@ -1,0 +1,16 @@
+
+
+.sliderTenderLove {
+  padding-left: 3vh;
+  padding-right: 3vh;
+  width : inherit;
+}
+
+.input-range__label--min,
+.input-range__label--max {
+  display: none;
+}
+
+.input-range {
+  padding-top: 6vh;
+}

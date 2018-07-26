@@ -1,0 +1,24 @@
+.value {
+    padding-left: 10em;
+		padding-top: 1vh;
+}
+
+.profTable {
+	padding-top: 2vh;
+}
+
+.profLists {
+	padding-left: 1vw;
+}
+
+.profLists p {
+  padding-bottom: 2vh;
+}
+
+.value .fa {
+  padding-right: 1em;
+}
+
+table {
+  padding-top: 30em;
+}
